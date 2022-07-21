@@ -50,5 +50,4 @@ Satisfactory results were obtained on the Test case\
 ![12](https://user-images.githubusercontent.com/79614977/180186528-852eedfb-d1a1-47c0-a92e-67d76d0c0921.png)
 ![13](https://user-images.githubusercontent.com/79614977/180186545-9b0052d9-ca3c-4b7c-aac3-aca661918824.png)
 
-
-
+# For detailed results / all insights read the PDF or open the Jupyter Notebook 
