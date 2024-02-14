@@ -1,5 +1,7 @@
 # Overview
-This document provides an overview  of what was done in this logistic regression model to predict customer churn of a telecom company
+The case study was regarding customer churn prediction in Telecom industry. There are 7000+ entries and 20+ parameters. The data includes a column to show whether the customer has churned or not. Based on this, a model needs to be created to predict the churn probability of a given customer. Data cleanup was performed. This involved checking outliers, converting text entries to numeric etc.. Simple Exploratory Data Analysis (EDA) was performed. A suitable model was built after splitting the data into test and train datasets. Feature elimination was performed using RFE and VIF in multiple iterations. Once we reached satisfactory results on train case, then the model was applied to the test case. Eventually the results that were achieved are:
+
+**Accuracy=73.54%, Sensitivity=74.2%, Specificity=73.3%**
 
 ## All data was imported
 ![1](https://user-images.githubusercontent.com/79614977/180183647-f59857f5-56f8-464e-975d-7844db1d7bcc.png)
